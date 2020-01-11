@@ -1,0 +1,42 @@
+{
+    "name": "sifex/financier",
+    "description": "Financier is an interface for platform-based payment gateways such as Stripe Connect.",
+    "keywords": [
+        "sifex",
+        "financier"
+    ],
+    "homepage": "https://github.com/sifex/financier",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alex@platformapp.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sifex\\Financier\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sifex\\Financier\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
