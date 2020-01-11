@@ -5,7 +5,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/sifex/financier.svg?style=flat-square)](https://scrutinizer-ci.com/g/sifex/financier)
 [![Total Downloads](https://img.shields.io/packagist/dt/sifex/financier.svg?style=flat-square)](https://packagist.org/packages/sifex/financier)
 
-Financier provides an expressive, fluent interface to common marketplace-based payment gateways such as Stripe Connect. Not to be confused with [Financier (cake)](https://en.wikipedia.org/wiki/Financier_(cake)).
+Financier provides an expressive, fluent interface to common marketplace-based payment gateways such as Stripe Connect. Not to be confused with [the small French almond cake, flavoured with beurre noisette, usually baked in a small mold](https://en.wikipedia.org/wiki/Financier_(cake)).
 
 ## Installation
 
