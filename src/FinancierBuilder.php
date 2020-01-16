@@ -2,7 +2,7 @@
 
 namespace Sifex\Financier;
 
-class Financier
+class FinancierBuilder
 {
 
 }

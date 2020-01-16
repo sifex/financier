@@ -17,8 +17,8 @@ composer require sifex/financier
 
 ## Usage
 
-``` php
-// Usage description here
+```php
+
 ```
 
 ### Testing
@@ -47,7 +47,3 @@ If you discover any security related issues, please email alex@platformapp.io in
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## PHP Package Boilerplate
-
-This package was generated using the [PHP Package Boilerplate](https://laravelpackageboilerplate.com).
